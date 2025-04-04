@@ -4,6 +4,7 @@ A collection of STEM resources and classroom-ready materials for students and te
 ##
 **ScienceKit.pdf**
 - 📄 [Science Kit Activity – Download PDF](./ScienceKit.pdf)
+- (Click the "download raw file" icon in the upper right of page)
 
 This document lists the materials needed to conduct three experiments and walks students through each on.
 
